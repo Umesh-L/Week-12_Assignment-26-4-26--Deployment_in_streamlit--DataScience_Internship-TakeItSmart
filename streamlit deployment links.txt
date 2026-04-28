@@ -1,0 +1,11 @@
+House Price Prediction : 
+https://house-price-prediction--regression--umesh-l.streamlit.app/
+
+HR Attrition Prediction : 
+https://hr-attrition-prediction--classification--umesh-l.streamlit.app/
+
+Customer Churn Prediction : 
+https://customer-churn-prediction--classification--umesh-l.streamlit.app/
+
+Customer Segmentation using K-Means Clustering : 
+https://customer-segmentation-using-k-means-clustering--umesh-l.streamlit.app/
