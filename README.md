@@ -73,15 +73,19 @@ Segments customers into meaningful groups using clustering so businesses can tar
 
 ## Output Snapshots
 #### - Customer Churn Prediction (Classification)
+<img width="1919" height="1016" alt="Screenshot 2026-05-11 164051" src="https://github.com/user-attachments/assets/4552740c-214c-453d-a098-0f5e613fe281" />
 
 #### - Customer Segmentation using K-Means Clustering (Unsupervised ML model)
+<img width="1919" height="1017" alt="Screenshot 2026-05-11 164135" src="https://github.com/user-attachments/assets/dcee5c23-199e-477a-978a-7921d8968894" />
 
 #### - House Price Prediction (Regression)
+<img width="1919" height="1017" alt="Screenshot 2026-05-11 164210" src="https://github.com/user-attachments/assets/588a82c9-854f-45c6-9847-ccf918f961ee" />
 
 #### - HR Attrition Prediction
+<img width="1919" height="1016" alt="Screenshot 2026-05-11 164240" src="https://github.com/user-attachments/assets/7b01180b-cfb2-45b4-bf79-6f899ce6c4cd" />
 
 ## Project Explanation video
-
+https://github.com/user-attachments/assets/36cebee2-9951-4d69-9555-17d11f6133b3
 
 ## How to Explore
 
@@ -94,4 +98,3 @@ Segments customers into meaningful groups using clustering so businesses can tar
 
 - Each project has its own notebook and dataset inside its folder.
 - The apps were deployed to Streamlit Community Cloud.
-- If you want screenshots or a more detailed per-project README section, I can add that next.
